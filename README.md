@@ -1,4 +1,4 @@
-# crab 🦀
+# ℭ℟&#8704;b 🦀
 Personal Reference Manager
 ---
 Reference manager for scientific citations.
