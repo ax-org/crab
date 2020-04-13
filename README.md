@@ -1,5 +1,5 @@
 # crab 🦀
-Reference Manager
+Personal Reference Manager
 ---
 Reference manager for scientific citations.
 
@@ -7,4 +7,9 @@ Reference manager for scientific citations.
 
 
 **Language:** Python, C, JS, HTML
-**Platform:** Win 10
+
+**Platform:** &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/476px-Windows_10_Logo.svg.png" height="20">
+
+---
+
+**Downloads:** [Pending]
