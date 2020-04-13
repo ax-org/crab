@@ -7,3 +7,4 @@ Reference manager for scientific citations.
 
 
 **Language:** Python, C, JS, HTML
+**Platform:** Win 10
