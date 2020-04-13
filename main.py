@@ -1,5 +1,3 @@
-//Main.py
-
 import math
-
-print("Hello")
+import 
+print("")
