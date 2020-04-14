@@ -1,5 +1,5 @@
 # ℭ℟&#8704;b 🦀
-Personal Reference Manager
+Bare-bones Personal Reference Manager
 ---
 Reference manager for scientific citations.
 
