@@ -1,3 +1,4 @@
 import math
-import 
+import setup
+
 print("")

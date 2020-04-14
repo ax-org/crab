@@ -1,18 +1,12 @@
 from subprocess import call
 import os
-import dynate
-import proice 
-import prant
-# import proice
+# os and subprocess are standard libraries, no need to install.
 
 id = 'setup'
 fid = ""
-# Bluetooth --> install devcon, acquire bluetooth hardware id.
-
-# Installing / Checking Python modules...
 
 #%dynate-1.open
-proice.core("Please enter the OS platform (win/ub)...", id, fid)
+print("Please enter the OS platform (win/ub)...")
 platform = input()
 if platform == "win":
     ver = ".7"
@@ -20,7 +14,7 @@ else:
     ver = ""
 #%dynate-1.close
 
-# proice.core('>> Checking dependencies, please standby...', id)
+
 
 req_modules = ('time', 'numpy', 'pyttsx3', 'playsound', 'openwaether',
                'docutils pygments pypiwin32 kivy_deps.sdl2==0.1.* kivy_deps.glew==0.1.*', 'kivy_deps.gstreamer==0.1.*', 'kivy==1.11.1')
@@ -65,7 +59,7 @@ def upgrade(x):
             print("done...")
         print("\n>>>> New modules installed successfully...")
 
-        dynate.core(1)
+        #dynate.core(1)
 
 
 
